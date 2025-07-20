@@ -2,9 +2,9 @@
 
 This repo contains all the tools I have created using Python. Most will be inspired by work tasks to help automate or otherwise speed up processes.
 
-## entra-graph.exe
+## EntraGrapher
 
-This tool takes a .csv file and allows you to select the X and Y axis to plot out a graph in a selection of styles. As this app is based around the Entra ID logs in Azure some templates have been provided which will automatically plot out a graph of that description.
+This tool takes an Entra ID .csv file and allows you to select one of the preconfigured templates and plot the data to a graph. Will also show a sample of the .csv file in a table once uploaded for a quick check.
 
 ## event-viewer.exe
 
